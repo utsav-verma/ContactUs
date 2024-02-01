@@ -1,6 +1,6 @@
 import styles from "./Navigation.module.css";
 export const Navigation = () => {
-   
+   console.log(styles);
   return (
    <nav className={`${styles.navigation} container`}>
     <div className="logo">
