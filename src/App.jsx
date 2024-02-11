@@ -13,8 +13,11 @@ function App() {
   return (
     <>
       <Navigation/>
+      <main>
       <ContactHeader/>
       <ContactForm/>
+
+      </main>
     </>
   )
 }
